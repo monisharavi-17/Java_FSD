@@ -1,0 +1,2 @@
+car 10 170 4 chennai kochi
+metal 6 220 5 chennai kochi
